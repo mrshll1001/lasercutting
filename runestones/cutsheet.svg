@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="168.09456mm"
+   height="84.293015mm"
+   viewBox="0 0 168.09456 84.293015"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="343.30478"
-     inkscape:cy="947.27245"
+     inkscape:cx="263.55705"
+     inkscape:cy="97.026843"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,11 @@
      inkscape:window-height="849"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -44,37 +48,27 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g4547">
-      <rect
-         ry="1.0866816"
-         y="-22.335939"
-         x="76.844658"
-         height="19.887354"
-         width="14.887354"
-         id="rect4504"
-         style="fill:none;stroke:#ff0000;stroke-width:0.11264585" />
-    </g>
+     id="layer1"
+     transform="translate(-1.0393098,-0.55416557)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4506"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:FutharkAdapted;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:6.57000017px;word-spacing:0px;-inkscape-font-specification:FutharkAdapted;font-stretch:normal;font-variant:normal;"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:FutharkAdapted;-inkscape-font-specification:FutharkAdapted;letter-spacing:6.57000017px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion4508"
-         style="-inkscape-font-specification:FutharkAdapted;font-family:FutharkAdapted;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FutharkAdapted;-inkscape-font-specification:FutharkAdapted"><rect
            id="rect4510"
            width="434.28571"
            height="126.42857"
            x="43.57143"
            y="203.23396"
-           style="-inkscape-font-specification:FutharkAdapted;font-family:FutharkAdapted;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FutharkAdapted;-inkscape-font-specification:FutharkAdapted" /></flowRegion><flowPara
          id="flowPara4512" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:1.73831248px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -99,7 +93,7 @@
          style="stroke-width:0.26458332" /></text>
     <g
        id="g4619"
-       transform="translate(-3.7417734,5.469807)">
+       transform="translate(-7.3325472,-0.57781207)">
       <g
          transform="translate(-66.416478,25.52424)"
          id="g4605">
@@ -126,7 +120,7 @@
     </g>
     <g
        id="g4653"
-       transform="translate(-3.0008769,5.469807)">
+       transform="translate(-6.0786828,-0.57781207)">
       <g
          transform="translate(-46.638533,25.52424)"
          id="g4623">
@@ -153,7 +147,7 @@
     </g>
     <g
        id="g4647"
-       transform="translate(-2.393607,5.603442)">
+       transform="translate(-4.9584496,-0.44417707)">
       <g
          transform="translate(-26.726953,25.390605)"
          id="g4634">
@@ -180,7 +174,7 @@
     </g>
     <g
        id="g4670"
-       transform="translate(-2.7217924,-0.142853)">
+       transform="translate(-4.7736617,-6.1904721)">
       <g
          transform="translate(-5.8799296,31.1369)"
          id="g4657">
@@ -207,7 +201,7 @@
     </g>
     <g
        id="g4687"
-       transform="translate(-3.7181435,0.79259)">
+       transform="translate(-5.2570434,-5.2550291)">
       <g
          transform="translate(15.635267,30.201457)"
          id="g4674">
@@ -234,7 +228,7 @@
     </g>
     <g
        id="g4704"
-       transform="translate(-1.6947932,0.124416)">
+       transform="translate(-2.7207319,-5.9232031)">
       <g
          transform="translate(34.130758,30.869631)"
          id="g4691">
@@ -261,7 +255,7 @@
     </g>
     <g
        id="g4718"
-       transform="translate(-0.71781794,0.566964)">
+       transform="translate(-1.2307873,-5.4806551)">
       <g
          transform="translate(53.672619,30.427083)"
          id="g4708">
@@ -286,7 +280,8 @@
       </g>
     </g>
     <g
-       id="g4732">
+       id="g4732"
+       transform="translate(0,-6.0476191)">
       <g
          transform="translate(73.473661,30.994047)"
          id="g4722">
@@ -306,12 +301,13 @@
         <path
            d="m 156.10836,12.954584 3.30729,3.32934 -2.68442,2.73954 v 4.45382 l -0.30868,0.771701 -0.31419,-0.771701 z m 2.44188,3.32934 -1.81901,-1.846571 v 3.693143 z"
            style="stroke-width:0.26458332"
-           id="path4768" />
+           id="path4768"
+           inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        id="g4746"
-       transform="translate(1.4682366,-0.188988)">
+       transform="translate(-2.1225372,-7.2731486)">
       <g
          transform="translate(-71.626488,62.366071)"
          id="g4736">
@@ -337,7 +333,7 @@
     </g>
     <g
        id="g4763"
-       transform="translate(0.30134627)">
+       transform="translate(-2.7764596,-7.0841606)">
       <g
          transform="translate(-49.703869,62.177083)"
          id="g4750">
@@ -364,7 +360,7 @@
     </g>
     <g
        id="g4789"
-       transform="translate(-1.2435207,-0.566965)">
+       transform="translate(-3.8083593,-7.6511256)">
       <g
          transform="translate(-27.403274,62.744048)"
          id="g4776">
@@ -391,7 +387,7 @@
     </g>
     <g
        id="g4806"
-       transform="translate(-2.0324341,-0.755953)">
+       transform="translate(-4.0843034,-7.8401136)">
       <g
          transform="translate(-5.8586309,62.933036)"
          id="g4793">
@@ -418,7 +414,7 @@
     </g>
     <g
        id="g4823"
-       transform="translate(-0.55349496,0.566964)">
+       transform="translate(-2.0923949,-6.5171966)">
       <g
          transform="translate(13.418155,61.610119)"
          id="g4810">
@@ -445,7 +441,7 @@
     </g>
     <g
        id="g4840"
-       transform="translate(-1.7203892,0.377976)">
+       transform="translate(-2.7463198,-6.7061846)">
       <g
          transform="translate(35.340774,61.799107)"
          id="g4827">
@@ -472,7 +468,7 @@
     </g>
     <g
        id="g4857"
-       transform="translate(-0.19872818)">
+       transform="translate(-0.71169751,-7.0841606)">
       <g
          transform="translate(54.574852,62.177083)"
          id="g4844">
@@ -498,7 +494,8 @@
       </g>
     </g>
     <g
-       id="g4874">
+       id="g4874"
+       transform="translate(0,-7.0841606)">
       <g
          transform="translate(75.131847,62.177083)"
          id="g4861">
@@ -521,6 +518,222 @@
            id="path4867"
            style="stroke-width:0.26458332"
            d="m 165.50475,50.754024 -3.63251,3.621485 -0.80478,0.341753 0.34176,-0.804774 3.16397,-3.163976 -3.30178,-3.307291 3.63251,-3.632509 0.80477,-0.341754 -0.34175,0.804775 -3.175,3.169488 z" />
+      </g>
+    </g>
+    <g
+       id="g4587"
+       transform="translate(-3.6383132)">
+      <g
+         transform="translate(-70.110712,85.239439)"
+         id="g4574">
+        <rect
+           ry="1.0866816"
+           y="-22.335939"
+           x="76.844658"
+           height="19.887354"
+           width="14.887354"
+           id="rect4572"
+           style="fill:none;stroke:#ff0000;stroke-width:0.11264585" />
+      </g>
+      <g
+         transform="translate(-3.2836962,5.7067035)"
+         id="text4578"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:FutharkAdapted;-inkscape-font-specification:'FutharkAdapted, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:1.73831248px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="t">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4580"
+           style="stroke-width:0.26458332"
+           d="m 17.464075,61.515321 3.593923,3.593924 0.380339,0.766189 -0.821311,-0.270095 -2.827734,-2.888369 v 9.238369 l -0.325217,0.810286 -0.330729,-0.810286 v -9.232856 l -2.827735,2.882856 -0.82131,0.275607 0.38585,-0.771701 z" />
+      </g>
+    </g>
+    <g
+       id="g4624"
+       transform="translate(-2.3122922,-1.301763)">
+      <g
+         transform="translate(-50.137514,86.541202)"
+         id="g4547">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.11264585"
+           id="rect4504"
+           width="14.887354"
+           height="19.887354"
+           x="76.844658"
+           y="-22.335939"
+           ry="1.0866816" />
+      </g>
+      <g
+         transform="translate(-0.61985215,5.015823)"
+         id="text4615"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:FutharkAdapted;-inkscape-font-specification:'FutharkAdapted, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:1.73831248px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="b">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4617"
+           style="stroke-width:0.26458332"
+           d="m 33.122527,74.75 -0.0055,-11.233767 3.307292,3.25217 -2.309592,2.364713 2.309592,2.364714 z m 2.441884,-3.25217 -1.802474,-1.863108 v 3.726215 z m 0,-4.729427 -1.802474,-1.863108 v 3.720703 z" />
+      </g>
+    </g>
+    <g
+       id="g4637"
+       transform="translate(-2.2609973,-1.301763)">
+      <g
+         id="g4591"
+         transform="translate(-28.889586,86.541202)">
+        <rect
+           ry="1.0866816"
+           y="-22.335939"
+           x="76.844658"
+           height="19.887354"
+           width="14.887354"
+           id="rect4589"
+           style="fill:none;stroke:#ff0000;stroke-width:0.11264585" />
+      </g>
+      <g
+         transform="translate(-1.1921742,3.7094455)"
+         id="text4628"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:FutharkAdapted;-inkscape-font-specification:'FutharkAdapted, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:1.73831248px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="e">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4630"
+           style="stroke-width:0.26458332"
+           d="m 56.590911,68.058244 3.25217,-3.25217 -0.0055,10.478602 -0.314193,0.788238 -0.319705,-0.788238 v -8.990321 l -2.61276,2.667882 -2.612761,-2.667882 v 8.990321 l -0.314192,0.788238 -0.319705,-0.788238 -0.0055,-10.47309 z" />
+      </g>
+    </g>
+    <g
+       id="g4650"
+       transform="translate(-1.6751642,-1.63585)">
+      <g
+         transform="translate(-8.1761975,86.875289)"
+         id="g4595">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.11264585"
+           id="rect4593"
+           width="14.887354"
+           height="19.887354"
+           x="76.844658"
+           y="-22.335939"
+           ry="1.0866816" />
+      </g>
+      <g
+         transform="translate(-2.3931242,2.3205945)"
+         id="text4641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:FutharkAdapted;-inkscape-font-specification:'FutharkAdapted, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:1.73831248px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="m">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4643"
+           style="stroke-width:0.26458332"
+           d="M 75.939354,72.344333 78.07807,70.205618 75.939354,68.06139 Z m 0,0.92053 v 3.671093 l -0.330729,0.810287 -0.325217,-0.810287 q 0,-2.585199 0,-5.175911 0.0055,-2.590712 0,-5.181424 0.782726,0.810287 1.615061,1.5875 0.832335,0.771702 1.642621,1.576476 l 3.186025,-3.163976 q 0,2.590712 0,5.181424 0,2.590712 0,5.175911 l -0.325217,0.810287 -0.325217,-0.810287 V 73.204229 L 78.54109,70.663127 Z m 3.064757,-3.059245 2.07257,2.072569 v -4.150651 z" />
+      </g>
+    </g>
+    <g
+       id="g4663"
+       transform="translate(-1.0225151,-1.502215)">
+      <g
+         id="g4599"
+         transform="translate(12.470374,86.741654)">
+        <rect
+           ry="1.0866816"
+           y="-22.335939"
+           x="76.844658"
+           height="19.887354"
+           width="14.887354"
+           id="rect4597"
+           style="fill:none;stroke:#ff0000;stroke-width:0.11264585" />
+      </g>
+      <g
+         transform="translate(-2.7447072,4.6686045)"
+         id="text4654"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:FutharkAdapted;-inkscape-font-specification:'FutharkAdapted, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:1.73831248px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="l">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4656"
+           style="stroke-width:0.26458332"
+           d="m 101.1984,67.881069 0.42995,0.79375 -0.82682,-0.30868 -2.78915,-2.822223 v 8.984809 l -0.314193,0.788238 -0.319705,-0.788238 V 64.044611 Z" />
+      </g>
+    </g>
+    <g
+       id="g4676"
+       transform="translate(-0.90441024,-1.301763)">
+      <g
+         transform="translate(33.651484,86.541202)"
+         id="g4603">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.11264585"
+           id="rect4601"
+           width="14.887354"
+           height="19.887354"
+           x="76.844658"
+           y="-22.335939"
+           ry="1.0866816" />
+      </g>
+      <g
+         transform="translate(-3.6374012,5.39105)"
+         id="text4667"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:FutharkAdapted;-inkscape-font-specification:'FutharkAdapted, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:1.73831248px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="q">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4669"
+           style="stroke-width:0.26458332"
+           d="m 117.59469,68.755133 3.97977,-3.979774 3.98529,3.979774 -3.98529,3.985287 z m 0.85989,0 3.11988,3.119879 3.12539,-3.119879 -3.12539,-3.119878 z" />
+      </g>
+    </g>
+    <g
+       id="g4689"
+       transform="translate(-0.18493703,-1.435398)">
+      <g
+         id="g4607"
+         transform="translate(54.231238,86.674837)">
+        <rect
+           ry="1.0866816"
+           y="-22.335939"
+           x="76.844658"
+           height="19.887354"
+           width="14.887354"
+           id="rect4605"
+           style="fill:none;stroke:#ff0000;stroke-width:0.11264585" />
+      </g>
+      <g
+         transform="translate(-3.7746722,6.0999165)"
+         id="text4680"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:FutharkAdapted;-inkscape-font-specification:'FutharkAdapted, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:1.73831248px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="d">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4682"
+           style="stroke-width:0.26458332"
+           d="M 141.83398,68.182658 137.6723,64.01547 v 8.334375 z m 5.7161,-5.611372 v 11.228256 l -5.25308,-5.203473 -5.25859,5.208985 V 62.560262 l 5.25859,5.208984 z m -4.78455,5.611372 4.16719,4.167187 V 64.01547 Z" />
+      </g>
+    </g>
+    <g
+       id="g4702"
+       transform="translate(0,-1.769485)">
+      <g
+         transform="translate(75.345531,87.008924)"
+         id="g4611">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.11264585"
+           id="rect4609"
+           width="14.887354"
+           height="19.887354"
+           x="76.844658"
+           y="-22.335939"
+           ry="1.0866816" />
+      </g>
+      <g
+         transform="translate(-3.7428042,4.538614)"
+         id="text4693"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:FutharkAdapted;-inkscape-font-specification:'FutharkAdapted, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:1.73831248px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="o">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4695"
+           style="stroke-width:0.26458332"
+           d="m 162.91641,71.715157 -3.39549,-3.395486 3.39549,-3.395487 0.45751,-0.46302 3.8585,3.852994 -3.39548,3.400999 3.175,3.175 0.34175,0.804774 -0.80477,-0.341753 -3.16949,-3.175 -3.175,3.175 -0.80478,0.341753 0.34176,-0.804774 z m 3.39548,-3.395486 -2.93797,-2.932466 -2.93247,2.932466 2.93798,2.937977 z" />
       </g>
     </g>
   </g>
